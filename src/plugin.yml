@@ -1,0 +1,10 @@
+name: ArmorClear
+version: 1.0
+main: me.awesomeness941.armorclear.Main
+author: Awesomeness941
+
+
+
+commands:
+    armorclear:
+        description: Steps To Success - follow the command with helmet, chestplate, leggings, boots, or all
